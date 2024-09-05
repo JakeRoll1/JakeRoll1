@@ -1,7 +1,6 @@
 # Hey, I'm Jake! 
 Statistics Major at [Michigan State University](https://msu.edu/) 
 
-[![Twitter](https://img.shields.io/twitter/follow/JakesBBN?style=social)](https://twitter.com/JakesBBN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/jake-roll/)
 
 
